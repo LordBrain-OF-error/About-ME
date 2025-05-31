@@ -5,4 +5,4 @@ About me information
 -
 - using Tableau, SQL and MS Excel- 🌱 I’m currently learning Tableau, SQL and MS ExcelThis is my <a href="www.test.com" target="_blank">Portfolio Website</a>This is my
 -
-- <a href="test.cz" target="_blank" >Portfolio Website</a><!--**Junaid1702/Junaid1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <a href="test.cz" target="_blank" >Portfolio Website</a><!--**LordBrain-OF-error** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
